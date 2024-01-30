@@ -8,4 +8,4 @@ yarn
 yarn storybook
 ```
 
-In storybook there is a SomeComponent. Observe regular behaviour in the Default story. In the Errored story observe the storybook stack trace, that can then be closed to see the error boundary in action. 
+In storybook there is a SomeComponent story. Observe regular behaviour in the Default story. In the Errored story observe the storybook stack trace, that can then be closed to see the error boundary in action. 
